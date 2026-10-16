@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas
+plotly
+scikit-learn
+matplotlib
+wordcloud
+vaderSentiment
+transformers
+torch
+sentencepiece
